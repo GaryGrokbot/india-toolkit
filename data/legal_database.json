@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "description": "Indian laws and landmark cases relevant to animal advocacy",
+    "last_updated": "2026-02-15",
+    "disclaimer": "For reference only. Consult a qualified advocate for legal advice."
+  },
+  "constitutional_provisions": [
+    {
+      "article": "Article 21",
+      "title": "Right to Life and Personal Liberty",
+      "part": "Part III (Fundamental Rights)",
+      "text": "No person shall be deprived of his life or personal liberty except according to procedure established by law.",
+      "animal_welfare_relevance": "Expanded to animal life in AWBI v. Nagaraja (2014). Also basis for right to clean environment affecting communities near factory farms.",
+      "key_cases": ["AWBI v. Nagaraja (2014) 7 SCC 547", "M.C. Mehta v. Union of India (1987) 1 SCC 395"]
+    },
+    {
+      "article": "Article 48",
+      "title": "Organisation of Agriculture and Animal Husbandry",
+      "part": "Part IV (Directive Principles of State Policy)",
+      "text": "The State shall endeavour to organise agriculture and animal husbandry on modern and scientific lines and shall, in particular, take steps for preserving and improving the breeds, and prohibiting the slaughter, of cows and calves and other milch and draught cattle.",
+      "animal_welfare_relevance": "DPSP — not directly enforceable but guides state policy. Used in conjunction with 51A(g). CAUTION: weaponized by cow vigilante groups.",
+      "key_cases": ["State of Gujarat v. Mirzapur Moti Kureshi (2005) 8 SCC 534"]
+    },
+    {
+      "article": "Article 48A",
+      "title": "Protection and Improvement of Environment",
+      "part": "Part IV (Directive Principles of State Policy)",
+      "text": "The State shall endeavour to protect and improve the environment and to safeguard the forests and wild life of the country.",
+      "animal_welfare_relevance": "Basis for challenging environmental damage from factory farms. Pair with Article 21 for enforceable right to clean environment.",
+      "key_cases": ["M.C. Mehta v. Union of India (1987) 1 SCC 395"]
+    },
+    {
+      "article": "Article 51A(g)",
+      "title": "Fundamental Duty — Compassion for Living Creatures",
+      "part": "Part IVA (Fundamental Duties)",
+      "text": "It shall be the duty of every citizen of India to protect and improve the natural environment including forests, lakes, rivers and wild life, and to have compassion for living creatures.",
+      "animal_welfare_relevance": "THE constitutional anchor. Nagaraja court used this to derive animal rights from the Constitution. Cite in every PIL.",
+      "key_cases": ["AWBI v. Nagaraja (2014) 7 SCC 547", "People for Animals v. State of Goa (1997)"]
+    }
+  ],
+  "statutes": [
+    {
+      "name": "Prevention of Cruelty to Animals Act, 1960",
+      "act_number": "59 of 1960",
+      "key_sections": {
+        "Section 3": "Duty of persons having charge of animals to take reasonable measures to ensure their well-being",
+        "Section 4": "Establishment of Animal Welfare Board of India (AWBI)",
+        "Section 11": "Treating animals cruelly — defines 12 forms of cruelty",
+        "Section 11(1)(a)": "Beating, kicking, over-riding, over-driving, over-loading, torturing",
+        "Section 11(1)(d)": "Conveying or carrying in a vehicle causing unnecessary suffering",
+        "Section 11(1)(e)": "Keeping in cage not reasonably large and comfortable",
+        "Section 11(1)(h)": "Neglecting to provide sufficient food, drink or shelter",
+        "Section 38": "Power of Central Government to make rules"
+      },
+      "penalties": "First offence: Rs 10-50. Subsequent: Rs 25-100 OR imprisonment up to 3 months OR both. Woefully inadequate.",
+      "amendment_status": "Multiple amendment bills pending to increase penalties. PCA Amendment Bill proposed Rs 50,000-75,000 for first offence."
+    },
+    {
+      "name": "Prevention of Cruelty to Animals (Transport of Livestock) Rules, 1978",
+      "made_under": "Section 38, PCA Act 1960",
+      "key_rules": {
+        "Rule 4": "Certificate of fitness from veterinary doctor required before transport",
+        "Rule 5": "Animals must be provided adequate food and water",
+        "Rule 6": "Diseased, blind, emaciated, pregnant (advanced) animals cannot be transported",
+        "Rule 7": "Vehicle specifications — adequate ventilation, non-slip flooring",
+        "Rule 8": "Maximum number of animals per vehicle",
+        "Rule 9": "Animals not to be transported more than 36 hours without rest and feed",
+        "Rule 47": "Poultry specific — max 4 birds per coop of 60x45x30 cm"
+      }
+    },
+    {
+      "name": "Prevention of Cruelty to Animals (Transport of Animals on Foot) Rules, 2001",
+      "made_under": "Section 38, PCA Act 1960",
+      "key_rules": {
+        "Rule 3": "Animals must be fit for transport, certified by veterinarian",
+        "Rule 5": "Maximum distance 25 km per day",
+        "Rule 6": "Rest at intervals not exceeding 5 hours",
+        "Rule 9": "Animals not to be tied with nose ropes causing pain",
+        "Rule 11": "Branding prohibited (only ear-tagging permitted)"
+      }
+    },
+    {
+      "name": "Prevention of Cruelty to Animals (Slaughter House) Rules, 2001",
+      "made_under": "Section 38, PCA Act 1960",
+      "key_rules": {
+        "Rule 3": "Registration/license mandatory from local authority",
+        "Rule 4": "Ante-mortem inspection by qualified veterinarian",
+        "Rule 5": "Post-mortem examination of each carcass",
+        "Rule 6": "Animals must be stunned before slaughter (humane killing)",
+        "Rule 6(2)": "No animal to be slaughtered in sight of another",
+        "Rule 7": "Sick, pregnant, animals under 3 months cannot be slaughtered",
+        "Rule 8": "No slaughter between sunset and sunrise"
+      }
+    },
+    {
+      "name": "Food Safety and Standards Act, 2006",
+      "act_number": "34 of 2006",
+      "key_sections": {
+        "Section 3(1)(n)": "Definition of food safety",
+        "Section 26": "Standards for articles of food",
+        "Section 31": "Licensing and registration of food business operators",
+        "Section 32": "Improvement notices",
+        "Section 38": "Power of Food Safety Officers to inspect",
+        "Section 59": "Punishment for unsafe food — 6 months to life imprisonment",
+        "Section 63": "Operating without license — Rs 5 lakhs fine"
+      },
+      "key_regulations": ["FSS (Licensing and Registration) Regulations, 2011", "FSS (Food Products Standards and Food Additives) Regulations, 2011"]
+    },
+    {
+      "name": "Water (Prevention and Control of Pollution) Act, 1974",
+      "key_provisions": "Consent to Establish and Consent to Operate from SPCB required. Section 33A: SPCB can issue directions for closure. Violations: imprisonment up to 6 years and fine."
+    },
+    {
+      "name": "Air (Prevention and Control of Pollution) Act, 1981",
+      "key_provisions": "Consent required for industrial operations. Section 31A: SPCB directions for closure. Applicable to poultry farms (ammonia, particulates) and rendering plants."
+    },
+    {
+      "name": "Environment (Protection) Act, 1986",
+      "key_provisions": "Umbrella legislation. Section 5: Power to issue directions. Section 15: Penalty up to 5 years imprisonment and Rs 1 lakh fine. EIA Notification 2006 for environmental clearance."
+    },
+    {
+      "name": "Right to Information Act, 2005",
+      "key_provisions": "Section 6: Application for information. Section 7: Response within 30 days. Section 19: Appeals — first and second. Section 20: Penalty on PIO Rs 250/day up to Rs 25,000."
+    },
+    {
+      "name": "Indian Penal Code — Sections 428 and 429",
+      "key_provisions": "Section 428: Mischief by killing or maiming animal of value Rs 10+ — imprisonment up to 2 years. Section 429: Mischief by killing animal of value Rs 50+ — imprisonment up to 5 years. STRONGER than PCA Act penalties."
+    }
+  ],
+  "landmark_cases": [
+    {
+      "name": "Animal Welfare Board of India v. A. Nagaraja & Ors.",
+      "citation": "(2014) 7 SCC 547",
+      "court": "Supreme Court of India",
+      "year": 2014,
+      "bench": ["K.S. Radhakrishnan", "Pinaki Chandra Ghose"],
+      "subject": "Jallikattu and bullock-cart races",
+      "holding": "Banned jallikattu and bullock-cart races. Animals have constitutional rights — right to live with dignity, right to life, right not to be tortured. Five freedoms read into PCA Act.",
+      "significance": "Most important animal rights judgment in Indian legal history. Constitutional basis for all animal welfare litigation."
+    },
+    {
+      "name": "People for Animals v. State of Goa",
+      "citation": "1997, Bombay High Court (Goa Bench)",
+      "court": "Bombay High Court, Goa Bench",
+      "year": 1997,
+      "subject": "Bull fights (dhirio) in Goa",
+      "holding": "Banned bull fights. Cultural/traditional practices do not override PCA Act.",
+      "significance": "Tradition does not excuse cruelty."
+    },
+    {
+      "name": "N.R. Nair & Ors v. Union of India & Ors",
+      "citation": "(2001) 6 SCC 84",
+      "court": "Supreme Court of India",
+      "year": 2001,
+      "subject": "Use of animals in circuses",
+      "holding": "Upheld restrictions on animals in circuses. State has positive obligation to prevent cruelty.",
+      "significance": "State's affirmative duty to protect animals."
+    },
+    {
+      "name": "Gauri Maulekhi v. Union of India",
+      "citation": "W.P.(C) No. 881/2014",
+      "court": "Supreme Court of India",
+      "year": 2016,
+      "subject": "Illegal cattle transport to Nepal (Gadhimai festival)",
+      "holding": "Directed strict enforcement of Transport Rules. States must prevent illegal cattle transport.",
+      "significance": "Key precedent for transport rule enforcement."
+    },
+    {
+      "name": "Laxmi Narain Modi v. Union of India",
+      "citation": "SLP (Criminal) No. 5765/2008",
+      "court": "Supreme Court of India",
+      "year": 2013,
+      "subject": "Unlicensed slaughterhouses",
+      "holding": "Directed all state governments to close unlicensed slaughterhouses and ensure compliance with Slaughter House Rules 2001.",
+      "significance": "Direct authority for demanding slaughterhouse compliance."
+    },
+    {
+      "name": "State of Gujarat v. Mirzapur Moti Kureshi Kassab Jamat",
+      "citation": "(2005) 8 SCC 534",
+      "court": "Supreme Court of India (7-judge bench)",
+      "year": 2005,
+      "subject": "Total ban on cow/bull/bullock slaughter in Gujarat",
+      "holding": "Upheld total ban. Article 48 + 48A + 51A(g) provide sufficient basis.",
+      "significance": "CAUTION: Used by cow vigilante groups. Cite carefully. Good for DPSP analysis, dangerous in communal context."
+    },
+    {
+      "name": "M.C. Mehta v. Union of India",
+      "citation": "(1987) 1 SCC 395",
+      "court": "Supreme Court of India",
+      "year": 1987,
+      "subject": "Oleum gas leak — absolute liability",
+      "holding": "Established absolute liability doctrine and right to clean environment under Article 21.",
+      "significance": "Foundation for environmental PIL against factory farms."
+    },
+    {
+      "name": "Vellore Citizens Welfare Forum v. Union of India",
+      "citation": "AIR 1996 SC 2715",
+      "court": "Supreme Court of India",
+      "year": 1996,
+      "subject": "Tannery pollution in Vellore",
+      "holding": "Established Precautionary Principle and Polluter Pays Principle as part of Indian environmental law.",
+      "significance": "Key for CAFO pollution cases — polluter must pay for cleanup."
+    },
+    {
+      "name": "Indian Council for Enviro-Legal Action v. Union of India",
+      "citation": "(1996) 3 SCC 212",
+      "court": "Supreme Court of India",
+      "year": 1996,
+      "subject": "Chemical industry pollution in Rajasthan",
+      "holding": "Polluters liable for remediation. Government must enforce environmental laws.",
+      "significance": "Government accountability for non-enforcement."
+    },
+    {
+      "name": "Akhil Bharat Goseva Sangh v. State of Andhra Pradesh",
+      "citation": "(2006) 4 SCC 162",
+      "court": "Supreme Court of India",
+      "year": 2006,
+      "subject": "Cattle slaughter regulations",
+      "holding": "States have power to regulate slaughter. Must balance with livelihood rights.",
+      "significance": "Nuanced — recognizes both welfare and livelihood dimensions."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "india-toolkit"
+version = "0.1.0"
+description = "India-specific animal advocacy tools. RTI automation, PIL templates, factory farm mapping, Hindi content."
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+authors = [
+    {name = "Open Paws", email = "info@openpaws.ai"},
+]
+keywords = ["animal-welfare", "india", "rti", "advocacy", "factory-farming"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering",
+]
+
+dependencies = [
+    "click>=8.1",
+    "jinja2>=3.1",
+    "sqlalchemy>=2.0",
+    "httpx>=0.25",
+    "pandas>=2.0",
+]
+
+[project.optional-dependencies]
+mapping = [
+    "rasterio>=1.3",
+    "geopandas>=0.14",
+    "shapely>=2.0",
+]
+dev = [
+    "pytest>=7.4",
+    "pytest-cov>=4.1",
+    "ruff>=0.1",
+]
+all = [
+    "india-toolkit[mapping,dev]",
+]
+
+[project.scripts]
+india-toolkit = "india.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/open-paws/india-toolkit"
+Issues = "https://github.com/open-paws/india-toolkit/issues"
+
+[tool.setuptools.packages.find]
+include = ["india*"]
+
+[tool.ruff]
+target-version = "py310"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

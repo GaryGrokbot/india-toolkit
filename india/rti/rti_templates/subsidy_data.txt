@@ -1,0 +1,83 @@
+RTI TEMPLATE: National Livestock Mission / Rashtriya Gokul Mission Spending
+Target Agency: Department of Animal Husbandry and Dairying (DAHD)
+Legal Basis: Right to Information Act, 2005, Section 6(1)
+Fee: Rs. 10/- (IPO/DD payable to PAO, Department of Animal Husbandry and Dairying)
+Response Deadline: 30 days under Section 7(1)
+
+SUBJECT: Expenditure and outcomes under National Livestock Mission and Rashtriya Gokul Mission in {state}
+
+QUESTIONS — NATIONAL LIVESTOCK MISSION (NLM):
+
+1. What is the total central allocation, state share, and actual expenditure
+   under the National Livestock Mission (NLM) in {state} for each financial
+   year from 2019-20 to 2024-25? Provide component-wise breakup:
+   (a) Breed Improvement of Livestock and Poultry
+   (b) Feed and Fodder Development
+   (c) Innovation and Extension
+   (d) Livestock Insurance
+
+2. How many beneficiaries in {state} have received subsidies under NLM for
+   establishment of:
+   (a) Poultry farms (broiler/layer, capacity-wise breakup)
+   (b) Dairy units
+   (c) Piggery units
+   (d) Goat/sheep rearing units
+   Provide district-wise and year-wise data.
+
+3. What is the total subsidy amount disbursed for commercial poultry
+   operations in {state} under NLM, including:
+   (a) Parent farm subsidy (Rs. 25 lakh cap)
+   (b) Rural backyard poultry subsidy
+   (c) Feed processing plant subsidy
+   Please provide year-wise data from 2019-20 to 2024-25.
+
+4. What outcome/impact assessment has been conducted for NLM in {state}?
+   Provide copies of any evaluation reports, utilization certificates,
+   or audit findings.
+
+QUESTIONS — RASHTRIYA GOKUL MISSION (RGM):
+
+5. What is the total expenditure under Rashtriya Gokul Mission (RGM)
+   in {state} from 2019-20 to 2024-25? Provide component-wise breakup:
+   (a) Gokul Gram establishment and maintenance
+   (b) National Kamdhenu Breeding Centre operations
+   (c) Artificial Insemination (AI) coverage expansion
+   (d) IVF technology deployment
+   (e) Progeny testing and pedigree selection
+   (f) Sex-sorted semen production
+
+6. How many Gokul Grams have been established in {state}? For each, provide:
+   (a) Location and area
+   (b) Animal housing capacity
+   (c) Current animal population (breed-wise)
+   (d) Annual operating expenditure
+   (e) Mortality rate
+
+7. What is the total expenditure on artificial insemination under RGM
+   in {state}? How many inseminations performed, conception rate achieved,
+   and how many calves born (sex-wise breakup)?
+
+8. How many male calves born under the RGM programme in {state} have
+   been:
+   (a) Retained at Gokul Grams
+   (b) Distributed to farmers
+   (c) Sold
+   (d) Died/lost (with cause of death breakdown)
+   This information is critical for assessing the welfare outcomes of
+   the programme.
+
+9. What is the per-animal cost of maintaining cattle at Gokul Grams in
+   {state}, including feed, veterinary care, and staff costs?
+
+10. Please provide copies of all audit reports by CAG, state AG, or internal
+    audit for NLM and RGM schemes in {state} for the period 2019-2025.
+
+NOTES FOR FILER:
+- DAHD: Krishi Bhawan, Dr. Rajendra Prasad Road, New Delhi - 110001
+- NLM was launched in 2014-15, restructured in 2021-22
+- RGM was launched in December 2014 under the DAHD
+- Male calf data (Question 8) is strategically critical — reveals the
+  hidden cost of dairy intensification programmes
+- State implementing agencies vary; may need to also file with state
+  animal husbandry department
+- Budget data available: Union Budget, Demand for Grants No. 1 (DAHD)

@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "description": "Public Information Officer (PIO) directory for RTI filing",
+    "last_updated": "2026-02-15",
+    "note": "PIO designations change frequently. Verify current designation before filing. Online RTI portal: rtionline.gov.in (for central government bodies)."
+  },
+  "central_agencies": [
+    {
+      "code": "awbi",
+      "name": "Animal Welfare Board of India",
+      "name_hi": "भारतीय पशु कल्याण बोर्ड",
+      "pio_designation": "Public Information Officer",
+      "address": "13/1, Third Seaward Road, Valmiki Nagar, Thiruvanmiyur, Chennai - 600041, Tamil Nadu",
+      "phone": "044-24454935",
+      "email": "awbi@nic.in",
+      "website": "http://www.awbi.in",
+      "parent_ministry": "Ministry of Fisheries, Animal Husbandry and Dairying",
+      "fee": 10,
+      "fee_payable_to": "Secretary, AWBI",
+      "online_rti": false,
+      "appellate_authority": "First Appellate Authority, AWBI",
+      "second_appeal": "Central Information Commission, B-1 Wing, 2nd Floor, Janpath Bhawan, Janpath, New Delhi - 110001"
+    },
+    {
+      "code": "fssai",
+      "name": "Food Safety and Standards Authority of India",
+      "name_hi": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण",
+      "pio_designation": "Central Public Information Officer",
+      "address": "FDA Bhawan, Kotla Road, New Delhi - 110002",
+      "phone": "011-23237435",
+      "email": "cpio-fssai@fssai.gov.in",
+      "website": "https://www.fssai.gov.in",
+      "parent_ministry": "Ministry of Health and Family Welfare",
+      "fee": 10,
+      "fee_payable_to": "Accounts Officer, FSSAI",
+      "online_rti": true,
+      "online_rti_url": "https://rtionline.gov.in",
+      "appellate_authority": "First Appellate Authority, FSSAI",
+      "second_appeal": "Central Information Commission, New Delhi"
+    },
+    {
+      "code": "cpcb",
+      "name": "Central Pollution Control Board",
+      "name_hi": "केंद्रीय प्रदूषण नियंत्रण बोर्ड",
+      "pio_designation": "Central Public Information Officer",
+      "address": "Parivesh Bhawan, East Arjun Nagar, Delhi - 110032",
+      "phone": "011-43102030",
+      "email": "cpcb@nic.in",
+      "website": "https://cpcb.nic.in",
+      "parent_ministry": "Ministry of Environment, Forest and Climate Change",
+      "fee": 10,
+      "fee_payable_to": "Pay and Accounts Officer, CPCB",
+      "online_rti": true,
+      "online_rti_url": "https://rtionline.gov.in",
+      "appellate_authority": "First Appellate Authority, CPCB",
+      "second_appeal": "Central Information Commission, New Delhi"
+    },
+    {
+      "code": "dahd",
+      "name": "Department of Animal Husbandry and Dairying",
+      "name_hi": "पशुपालन और डेयरी विभाग",
+      "pio_designation": "Central Public Information Officer",
+      "address": "Krishi Bhawan, Dr. Rajendra Prasad Road, New Delhi - 110001",
+      "phone": "011-23381119",
+      "email": "secy-ahd@gov.in",
+      "website": "https://dahd.nic.in",
+      "parent_ministry": "Ministry of Fisheries, Animal Husbandry and Dairying",
+      "fee": 10,
+      "fee_payable_to": "Pay and Accounts Officer, DAHD",
+      "online_rti": true,
+      "online_rti_url": "https://rtionline.gov.in",
+      "appellate_authority": "First Appellate Authority, DAHD",
+      "second_appeal": "Central Information Commission, New Delhi",
+      "notes": "NLM and RGM queries go here"
+    },
+    {
+      "code": "moefcc",
+      "name": "Ministry of Environment, Forest and Climate Change",
+      "name_hi": "पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय",
+      "pio_designation": "Central Public Information Officer",
+      "address": "Indira Paryavaran Bhawan, Jor Bagh Road, New Delhi - 110003",
+      "phone": "011-24695219",
+      "website": "https://moef.gov.in",
+      "fee": 10,
+      "online_rti": true,
+      "online_rti_url": "https://rtionline.gov.in",
+      "appellate_authority": "First Appellate Authority, MoEFCC",
+      "second_appeal": "Central Information Commission, New Delhi"
+    },
+    {
+      "code": "nddb",
+      "name": "National Dairy Development Board",
+      "name_hi": "राष्ट्रीय डेयरी विकास बोर्ड",
+      "pio_designation": "Public Information Officer",
+      "address": "Anand - 388001, Gujarat",
+      "phone": "02692-260148",
+      "website": "https://www.nddb.coop",
+      "fee": 10,
+      "online_rti": false,
+      "notes": "NDDB oversees dairy cooperative development. Mother Dairy is its subsidiary."
+    },
+    {
+      "code": "cgwb",
+      "name": "Central Ground Water Board",
+      "name_hi": "केंद्रीय भूमि जल बोर्ड",
+      "pio_designation": "Central Public Information Officer",
+      "address": "NH-IV, Faridabad - 121001, Haryana",
+      "phone": "0129-2477380",
+      "website": "http://cgwb.gov.in",
+      "parent_ministry": "Ministry of Jal Shakti",
+      "fee": 10,
+      "online_rti": true,
+      "notes": "For groundwater quality data near factory farms"
+    },
+    {
+      "code": "apeda",
+      "name": "Agricultural and Processed Food Products Export Development Authority",
+      "name_hi": "कृषि और प्रसंस्कृत खाद्य उत्पाद निर्यात विकास प्राधिकरण",
+      "pio_designation": "Central Public Information Officer",
+      "address": "3rd Floor, NCUI Building, 3 Siri Institutional Area, August Kranti Marg, New Delhi - 110016",
+      "website": "https://apeda.gov.in",
+      "fee": 10,
+      "online_rti": true,
+      "notes": "For meat and seafood export data. Maintains list of APEDA-approved meat processing plants."
+    }
+  ],
+  "state_pollution_control_boards": [
+    {
+      "state": "Andhra Pradesh",
+      "name": "Andhra Pradesh Pollution Control Board",
+      "address": "D.No. 4-5-111/2, Paryavaran Bhavan, Tarnaka, Hyderabad - 500007",
+      "website": "https://appcb.ap.nic.in"
+    },
+    {
+      "state": "Gujarat",
+      "name": "Gujarat Pollution Control Board",
+      "address": "Paryavaran Bhawan, Sector-10A, Gandhinagar - 382010",
+      "website": "https://gpcb.gujarat.gov.in"
+    },
+    {
+      "state": "Karnataka",
+      "name": "Karnataka State Pollution Control Board",
+      "address": "No.49, Parisara Bhawan, Church Street, Bangalore - 560001",
+      "website": "https://kspcb.karnataka.gov.in"
+    },
+    {
+      "state": "Maharashtra",
+      "name": "Maharashtra Pollution Control Board",
+      "address": "Sion-Chunabhatti, Mumbai - 400022",
+      "website": "https://mpcb.gov.in"
+    },
+    {
+      "state": "Tamil Nadu",
+      "name": "Tamil Nadu Pollution Control Board",
+      "address": "No.76, Mount Salai, Guindy, Chennai - 600032",
+      "website": "https://tnpcb.gov.in"
+    },
+    {
+      "state": "Telangana",
+      "name": "Telangana State Pollution Control Board",
+      "address": "Paryavaran Bhavan, A-3, Industrial Estate, Sanath Nagar, Hyderabad - 500018",
+      "website": "https://tspcb.cgg.gov.in"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "name": "Uttar Pradesh Pollution Control Board",
+      "address": "TC-12V, Vibhuti Khand, Gomti Nagar, Lucknow - 226010",
+      "website": "https://uppcb.com"
+    },
+    {
+      "state": "West Bengal",
+      "name": "West Bengal Pollution Control Board",
+      "address": "Paribesh Bhawan, 10A, Block-LA, Sector-III, Salt Lake, Kolkata - 700098",
+      "website": "https://wbpcb.gov.in"
+    }
+  ],
+  "state_food_safety": [
+    {
+      "state": "All states",
+      "note": "Each state has a State Food Safety Commissioner under the FSS Act, 2006. Contact through state Food & Drug Administration (FDA) office. FSSAI regional offices handle inter-state issues."
+    }
+  ],
+  "online_portals": [
+    {
+      "name": "RTI Online Portal (Central Government)",
+      "url": "https://rtionline.gov.in",
+      "fee_payment": "Online (Internet banking, credit/debit card)",
+      "note": "Covers all central government ministries and departments. Fee: Rs 10 online."
+    },
+    {
+      "name": "State RTI Portals",
+      "note": "Many states have their own online RTI portals. Search '[State name] RTI online portal'. Maharashtra, Karnataka, Tamil Nadu, Delhi have functional online portals."
+    }
+  ],
+  "tips": {
+    "filing": [
+      "Use RTI Online (rtionline.gov.in) for central agencies — fastest and cheapest",
+      "For state agencies, check if state has an online portal before sending by post",
+      "Postal RTI: Use Registered Post or Speed Post with tracking for proof of delivery",
+      "Keep photocopies of everything — application, postal receipt, money order receipt",
+      "If you don't know which department holds the information, file with the most likely one — they are legally required to transfer under Section 6(3) within 5 days"
+    ],
+    "drafting": [
+      "Be specific — 'inspection reports for [facility name] from [date] to [date]'",
+      "Ask for copies of documents, not summaries",
+      "Number your questions clearly",
+      "One topic per RTI — mixing topics gives agencies an excuse to partially respond",
+      "Ask for 'information held in electronic form' to avoid copying charges"
+    ],
+    "follow_up": [
+      "Mark the 30-day deadline on your calendar immediately after filing",
+      "If no response by day 30, file First Appeal on day 31",
+      "First Appeal to the Appellate Authority within 30 days of response/non-response",
+      "Second Appeal to CIC/SIC within 90 days of first appeal decision",
+      "CIC can impose penalty of Rs 250/day on PIO, max Rs 25,000"
+    ]
+  }
+}

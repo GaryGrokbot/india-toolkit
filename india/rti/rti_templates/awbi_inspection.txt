@@ -1,0 +1,57 @@
+RTI TEMPLATE: AWBI Inspection Reports
+Target Agency: Animal Welfare Board of India (AWBI), Chennai
+Legal Basis: Right to Information Act, 2005, Section 6(1)
+Fee: Rs. 10/- (IPO/DD payable to Secretary, AWBI)
+Response Deadline: 30 days under Section 7(1)
+
+SUBJECT: Inspection reports and animal welfare compliance at {facility_name}
+
+QUESTIONS:
+
+1. Please provide certified copies of all inspection reports prepared by AWBI
+   or its authorized inspectors for {facility_name} located at {facility_location}
+   conducted during the period {start_date} to {end_date}.
+
+2. What is the current registration/recognition status of {facility_name} under
+   Section 38 of the Prevention of Cruelty to Animals Act, 1960? If registered,
+   please provide the registration number and date of last renewal.
+
+3. Has {facility_name} been issued any show-cause notices, warnings, or directions
+   under the Prevention of Cruelty to Animals Act, 1960 in the last 5 years?
+   If yes, provide copies of such notices and the response received.
+
+4. How many complaints have been received by AWBI against {facility_name} from
+   {start_date} to {end_date}? Please provide:
+   (a) Date of each complaint
+   (b) Nature of complaint
+   (c) Action taken
+   (d) Current status of each complaint
+
+5. What is the approved animal housing capacity for {facility_name} as per
+   AWBI guidelines? What was the actual animal count as recorded in the last
+   inspection?
+
+6. Does {facility_name} comply with the following AWBI guidelines:
+   (a) Minimum space requirements per animal
+   (b) Veterinary care provisions
+   (c) Feed and water access standards
+   (d) Waste management requirements
+   (e) Transportation standards (if applicable)
+   Please provide specific findings from the most recent inspection.
+
+7. Has AWBI recommended any prosecution under the PCA Act, 1960 or the
+   Indian Penal Code (Section 428/429) against {facility_name} or its
+   operators? If so, provide details.
+
+8. Please provide a copy of the checklist or inspection protocol used by
+   AWBI inspectors for evaluating animal welfare at commercial poultry/dairy/
+   livestock operations.
+
+NOTES FOR FILER:
+- AWBI head office: 13/1, Third Seaward Road, Valmiki Nagar, Thiruvanmiyur,
+  Chennai - 600041, Tamil Nadu
+- AWBI was constituted under Section 4 of the PCA Act, 1960
+- If facility falls under a specific state, you may also file with the state
+  SPCA (Society for Prevention of Cruelty to Animals)
+- First appeal: Secretary, AWBI (within 30 days of non-response or refusal)
+- Second appeal: Central Information Commission, New Delhi

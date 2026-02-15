@@ -1,0 +1,59 @@
+RTI TEMPLATE: FSSAI Food Safety Violations at Meat/Dairy Establishments
+Target Agency: Food Safety and Standards Authority of India (FSSAI)
+Legal Basis: Right to Information Act, 2005, Section 6(1)
+Fee: Rs. 10/- (IPO/DD payable to Accounts Officer, FSSAI)
+Response Deadline: 30 days under Section 7(1)
+
+SUBJECT: Food safety violations at meat and dairy establishments in {district}, {state}
+
+QUESTIONS:
+
+1. How many meat processing plants, slaughterhouses, and dairy processing
+   units in {district} district, {state} currently hold valid FSSAI licenses
+   under the Food Safety and Standards (Licensing and Registration of Food
+   Businesses) Regulations, 2011? Please provide a list with license numbers
+   and expiry dates.
+
+2. How many meat and dairy establishments in {district} are operating without
+   a valid FSSAI license? What action has been taken against them under
+   Section 63 of the Food Safety and Standards Act, 2006?
+
+3. How many food safety inspections were conducted at meat and dairy
+   establishments in {district} during {year}? Please provide:
+   (a) Total number of inspections
+   (b) Number of violations detected
+   (c) Nature of violations (categorized)
+   (d) Penalties imposed
+
+4. Please provide details of all cases where meat or dairy products from
+   {district} failed laboratory testing in {year}, including:
+   (a) Name of establishment
+   (b) Product tested
+   (c) Parameters that failed (antibiotic residues, adulteration, microbial
+       contamination, aflatoxin M1, pesticide residues, heavy metals)
+   (d) Action taken
+
+5. How many cases of milk adulteration (urea, detergent, synthetic milk,
+   starch, neutralizers) have been detected in {district} during {year}?
+   What action was taken under Section 59 of the FSS Act, 2006?
+
+6. How many meat and dairy establishments in {district} have been found
+   violating the Food Safety and Standards (Food Products Standards and
+   Food Additives) Regulations, 2011 regarding permissible limits of
+   antibiotic residues?
+
+7. Please provide copies of Food Safety Officers' reports for all
+   inspections of slaughterhouses in {district} during {year}.
+
+8. How many licenses of meat/dairy establishments in {district} have been
+   suspended or cancelled under Section 32 of the FSS Act in the last
+   3 years? Provide details.
+
+NOTES FOR FILER:
+- FSSAI Head Office: FDA Bhawan, Kotla Road, New Delhi - 110002
+- State-level: File with State Food Safety Commissioner's office
+- District-level: Designated Officer (DO) under FSS Act
+- Key regulations: FSS Act 2006, FSS (Licensing) Regulations 2011,
+  FSS (Food Products Standards) Regulations 2011
+- First appeal: First Appellate Authority, FSSAI
+- Second appeal: Central Information Commission

@@ -1,0 +1,73 @@
+RTI TEMPLATE: Slaughterhouse Licensing and Compliance Data
+Target Agency: District Collector / Municipal Corporation / FSSAI State Office
+Legal Basis: Right to Information Act, 2005, Section 6(1)
+Fee: Rs. 10/- (IPO/DD payable to relevant authority)
+Response Deadline: 30 days under Section 7(1)
+
+SUBJECT: Slaughterhouse licensing, compliance, and inspection data in {district}, {state}
+
+QUESTIONS:
+
+1. Please provide a complete list of all registered/licensed slaughterhouses
+   in {district} district, {state}, including:
+   (a) Name and address of each slaughterhouse
+   (b) License/registration number and issuing authority
+   (c) Date of original license and date of last renewal
+   (d) License validity period
+   (e) Species approved for slaughter
+   (f) Approved daily slaughter capacity
+
+2. How many slaughterhouses in {district} comply with the following
+   regulations, and how many do not:
+   (a) Food Safety and Standards (Licensing and Registration of Food
+       Businesses) Regulations, 2011 — Schedule 4, Part V
+   (b) Prevention of Cruelty to Animals (Slaughter House) Rules, 2001
+   (c) Municipal bylaws regarding slaughterhouse operations
+   (d) State-specific slaughter regulations
+
+3. How many unregistered/unlicensed slaughterhouses have been identified
+   in {district} in the last 5 years? For each, provide:
+   (a) Location
+   (b) Date of identification
+   (c) Estimated daily slaughter volume
+   (d) Action taken (closure, prosecution, regularization)
+   (e) Current status
+
+4. What is the actual daily slaughter count at each licensed slaughterhouse
+   in {district} for the last 12 months, species-wise? Does it exceed the
+   approved capacity?
+
+5. Please provide copies of all inspection reports for slaughterhouses in
+   {district} conducted by:
+   (a) Municipal/district veterinary officers
+   (b) Food Safety Officers under FSS Act
+   (c) Pollution Control Board
+   (d) AWBI or SPCA representatives
+   for the period {start_date} to {end_date}.
+
+6. Do all slaughterhouses in {district} have:
+   (a) Ante-mortem inspection by a qualified veterinarian
+   (b) Post-mortem inspection as per FSSAI regulations
+   (c) Humane stunning facilities as per PCA (Slaughter House) Rules, 2001
+   (d) Effluent treatment plants as per PCB norms
+   (e) Cold chain/refrigeration as per FSSAI norms
+   Provide compliance status for each.
+
+7. How many animals have been seized during illegal transport to unlicensed
+   slaughter in {district} in the last 3 years? Under which provisions
+   were cases registered?
+
+8. What is the annual revenue collected from slaughterhouse license fees,
+   inspection fees, and related charges in {district} for the last 3 years?
+
+NOTES FOR FILER:
+- File with District Collector/Magistrate for district-level data
+- File with Municipal Commissioner for municipal slaughterhouses
+- Also file with state Food Safety Commissioner for FSSAI data
+- PCA (Slaughter House) Rules, 2001: Mandates humane slaughter, ante-mortem
+  inspection, adequate space, clean water, and waste treatment
+- FSSAI Schedule 4 Part V: Detailed requirements for slaughterhouses
+- Transport: Prevention of Cruelty to Animals (Transport of Livestock)
+  Rules, 1978 and 2001
+- Key case: Akhil Bharat Goseva Sangh v. State of A.P. (2006) 4 SCC 162
+- Municipal corporations maintain primary licensing authority in most states
